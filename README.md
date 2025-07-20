@@ -3,7 +3,6 @@
 A beautiful analog + digital clock designed using Python's tkinter — combining modern UI, smooth animations, and real-time elements, all API-free!
 
 
----
 
 ✨ Features
 
@@ -43,7 +42,6 @@ Static weather conditions shown – no APIs required!
 🛠️ Technologies Used
 
 
----
 
 🧠 What You’ll Learn
 
@@ -59,7 +57,6 @@ Designing dropdown menus and labels for user input
 
 
 
----
 
 > Note: Weather information is static and for demonstration only.
 Want to go pro? Add real-time data with OpenWeatherMap API or similar in the future.
